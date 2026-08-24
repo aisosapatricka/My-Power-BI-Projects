@@ -67,6 +67,12 @@ Maps
 Data Storytelling
 Retail & Sales Analytics
 
+📸 AdventureWorks Report [Link to My Report](https://app.powerbi.com/links/qNEkwHYDRX?ctid=3ea7c128-c601-4479-a003-e14d00c0b5cb&pbi_source=linkShare&bookmarkGuid=e396e7e8-d514-4b9f-83e4-52ea5c262bd8)<img width="2000" height="1108" alt="Screenshot 2026-07-23 140837" src="https://github.com/user-attachments/assets/7986492b-22c5-422e-a49d-e81509d068ad" />
+<img width="1598" height="568" alt="Screenshot 2026-08-24 180515" src="https://github.com/user-attachments/assets/30ad8266-5728-4f7f-aaad-0aeb2d7076a8" />
+<img width="1876" height="1004" alt="Screenshot 2026-08-24 180459" src="https://github.com/user-attachments/assets/a04e141d-34c3-4a48-a411-31818d9437a7" />
+
+
+
 
 <img width="2201" height="1213" alt="Screenshot 2026-08-24 160856" src="https://github.com/user-attachments/assets/6213e79c-6b1c-47d7-999d-96aebb973c2a" />
 <img width="2180" height="747" alt="Screenshot 2026-08-24 160943" src="https://github.com/user-attachments/assets/30ce5ee6-e1e0-44d7-8290-65f29491314e" />
