@@ -67,7 +67,6 @@ Maps
 Data Storytelling
 Retail & Sales Analytics
 
-LINK HERE (https://app.powerbi.com/links/qNEkwHYDRX?ctid=3ea7c128-c601-4479-a003-e14d00c0b5cb&pbi_source=linkShare&bookmarkGuid=26a3e373-4b8a-4975-b65c-08ad168f872b
 
 <img width="2201" height="1213" alt="Screenshot 2026-08-24 160856" src="https://github.com/user-attachments/assets/6213e79c-6b1c-47d7-999d-96aebb973c2a" />
 <img width="2180" height="747" alt="Screenshot 2026-08-24 160943" src="https://github.com/user-attachments/assets/30ce5ee6-e1e0-44d7-8290-65f29491314e" />
