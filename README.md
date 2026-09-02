@@ -67,11 +67,19 @@ Maps
 Data Storytelling
 Retail & Sales Analytics
 
-📸 AdventureWorks Report [Link to My Report](https://app.powerbi.com/view?r=eyJrIjoiZGUzNDcwMDEtOWQ4Ni00YzhjLWJlZDUtZDgzNTcwNmY1ZWUzIiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)<img width="2000" height="1108" alt="Screenshot 2026-07-23 140837" src="https://github.com/user-attachments/assets/7986492b-22c5-422e-a49d-e81509d068ad" />
+📸 AdventureWorks Report 
+<img width="2000" height="1108" alt="Screenshot 2026-07-23 140837" src="https://github.com/user-attachments/assets/7986492b-22c5-422e-a49d-e81509d068ad" />
 <img width="1598" height="568" alt="Screenshot 2026-08-24 180515" src="https://github.com/user-attachments/assets/30ad8266-5728-4f7f-aaad-0aeb2d7076a8" />
-<img width="1876" height="1004" alt="Screenshot 2026-08-24 180459" src="https://github.com/user-attachments/assets/a04e141d-34c3-4a48-a411-31818d9437a7" />
+<img width="1876" height="1004" alt="Screenshot 2026-08-24 180459" src="https://github.com/user-attachments/assets/a04e141d-34c3-4a48-a411-31818d9437a7" /> [Link to My Report](https://app.powerbi.com/view?r=eyJrIjoiZGUzNDcwMDEtOWQ4Ni00YzhjLWJlZDUtZDgzNTcwNmY1ZWUzIiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)
 
 
- 📸Sales Report [Link to My Report](https://app.powerbi.com/view?r=eyJrIjoiNjg1MDQ3ZmItZGI0NC00ZGI4LWE5MjktOWIyN2RhNjQyOTU3IiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)<img width="2220" height="1094" alt="Screenshot 2026-08-24 181315" src="https://github.com/user-attachments/assets/30205a31-1699-4b0d-9447-7b539e7fd24f" />
-)
 
+
+
+ 📸Sales Report <img width="2220" height="1094" alt="Screenshot 2026-08-24 181315" src="https://github.com/user-attachments/assets/30205a31-1699-4b0d-9447-7b539e7fd24f" />
+
+
+
+
+
+[Link to My Report](https://app.powerbi.com/view?r=eyJrIjoiNjg1MDQ3ZmItZGI0NC00ZGI4LWE5MjktOWIyN2RhNjQyOTU3IiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)
